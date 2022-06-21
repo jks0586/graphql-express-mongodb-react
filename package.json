@@ -1,0 +1,26 @@
+{
+  "name": "graphql-express-mongodb-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jks0586/graphql-express-mongodb-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jks0586/graphql-express-mongodb-react/issues"
+  },
+  "homepage": "https://github.com/jks0586/graphql-express-mongodb-react#readme",
+  "dependencies": {
+    "apollo-server": "^3.9.0",
+    "apollo-server-core": "^3.9.0",
+    "graphql": "^16.5.0"
+  }
+}
